@@ -6,6 +6,8 @@ This data challenge is designed to test and validate field level inference metho
 # map 1
 Noiseless convergence maps, flat-sky, 9x9 deg. The input cosmology for the map is: \Omega_m = 0.3071; \sigma_8 = 0.8228;  n_s = 0.96; \Omega_b = 0.048; h_100 = 0.677. The map has been obtained from one N-body simulation (900^3 particles, 600 Mpc/h box size), integrating 200 full-sky snapshots between z=49 and z=0, using the code PKDGRAV. The redshift distribution is provided in the data folder.
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 
 Issues and Questions
 Please create an issue or email mgatti@sas.upenn.edu or bjain@physics.upenn.edu with any questions or requests.
