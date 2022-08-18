@@ -18,5 +18,7 @@ Noisy convergence maps, flat-sky. 20 realisations are available. The maps are 12
 ![alt text](https://github.com/mgatti29/ML_challenge_cosmology/blob/main/data/figures/noisy_k.png?raw=true)
 
 
+Galaxy catalogs for the Map 1 & 2 above are available on request.
+
 Issues and Questions
 Please create an issue or email mgatti@sas.upenn.edu or bjain@physics.upenn.edu with any questions or requests.
