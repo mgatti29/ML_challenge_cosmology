@@ -1,8 +1,8 @@
 # ML challenge cosmology
 
- Here we present the learning phase A. In the future learning phase B  and the (blind) challenge phase will be available. For more details, see: https://www.overleaf.com/read/thwkhkvvwxyv
-
 We describe  a simulation based challenge designed to test and validate field level inference methods for weak lensing cosmology. These include deep learning methods such as CNNs and Bayesian Hierarchical Methods. The challenge is also available for a variety of non-Gaussian statistics. Our goal is to enable groups with varying levels of expertise in lensing and cosmology to develop, test and validate their codes and to help the cosmology community  evaluate their performance. The challenge will comprise a learning phase and a blind challenge phase. We describe the simulation products and the sources of systematic uncertainties included. 
+
+ Here we present the learning phase A. In the future learning phase B  and the (blind) challenge phase will be available. For more details, see: https://www.overleaf.com/read/thwkhkvvwxyv
 
 # LEARNING PHASE A
 
