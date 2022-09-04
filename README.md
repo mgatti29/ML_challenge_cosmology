@@ -8,7 +8,8 @@ We describe  a simulation based challenge designed to test and validate field le
 
  
 *Map 1 [data/learning_phase_A/convergence_noiseless.h5]*
-*Shear Catalogue 1 [to be uploaded]*
+
+*Shear Catalogue 1 [to be uploaded; send me an email if you need it]*
 
 Noiseless convergence map. The map comes in healpy format, with NSIDE=1024 (equivalent to a pixel resolution of ~3.4 arcmin). A short snippet to read the maps is provided in the utils/ folder.  The unmasked part of the map spans ~1100 deg^2. 2D projections of the map can be obtained, e.g., using the healpy gnomview functionality (https://healpy.readthedocs.io/en/latest/generated/healpy.visufunc.gnomview.html). Users may split the map into subpatches of desired area to run their analysis. A shear catalogue is also provided, where the (noiseless) shear field is sampled using randomly distributed galaxies with n_density = 2.5 gal/arcmin^2.
 
@@ -18,7 +19,9 @@ The input cosmology for the map is: \Omega_m = 0.3071; \sigma_8 = 0.8228;  n_s =
 
 
 *Map 2 [data/learning_phase_A/convergence_noisely.h5]*
-*Shear Catalogue 2 [to be uploaded]*
+
+*Shear Catalogue 2 [to be uploaded; send me an email if you need it]*
+
 
 Noisy convergence map. The map comes in healpy format, with NSIDE=1024 (equivalent to a pixel resolution of ~3.4 arcmin).  The unmasked part of the map spans ~1100 deg^2. Shape noise is added assuming std_e = 0.28 and n_density = 2.5 gal/arcmin^2. 2D projections of the map can be obtained, e.g., using the healpy gnomview functionality (https://healpy.readthedocs.io/en/latest/generated/healpy.visufunc.gnomview.html). Users may split the map into subpatches of desired area to run their analysis. A shear catalogue is also provided, where the (noisy) shear field is sampled using randomly distributed galaxies with n_density = 2.5 gal/arcmin^2.
 
